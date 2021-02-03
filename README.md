@@ -1,6 +1,6 @@
 # apy-api
 
-> APY calculations for Dynamic Set Dollar
+> APY calculations for Ethic Money
 
 ## About
 
